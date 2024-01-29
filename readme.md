@@ -1,12 +1,15 @@
 # Graphql
 
-Online version: https://coruscating-churros-e133ec.netlify.app/index.html
+# Online version
 
-Easy way to launch offline version in VSC is to use "Live Server" extension.
+Online version can be found [here](https://lordwelldown.github.io)
+If you have VS Code live server plugin, then that is also a way to view the server
 
-Audit questions: https://github.com/01-edu/public/tree/master/subjects/graphql/audit
+# Audit
+Audit questions are found in [this link ](https://github.com/01-edu/public/tree/master/subjects/graphql/audit)
 
-If you have any questions, feel free to contact me on discord, my username is KalvarS.
-
-Thank you for auditing!
+# Contacts
+Discord: @welldown
+Kood server: @e.mand
+gitea: e.mand
 
