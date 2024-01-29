@@ -2,7 +2,7 @@
 
 # Online version
 
-Online version can be found [here](https://lordwelldown.github.io)
+Online version can be found [here](https://lordwelldown.github.io/graphql/)
 If you have VS Code live server plugin, then that is also a way to view the server
 
 # Audit
