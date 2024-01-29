@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphQL</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/main.css">
+    <script src="src/main.js" defer></script>
+</head>
+<body>
+    <button id="logoutButton" onclick="logout()">Log Out</button>
+    <div id="result"></div>
+    <h1>Audit ratio:</h1>
+    <div id="ratio"></div>
+    <svg id="svg-container" width="500" height="200"></svg>
+    <h1>XP graph:</h1>
+    <button id="graphButton" onclick="getGraph('div-01')">Div 01</button>
+    <button id="graphButton" onclick="getGraph('piscine-go')">Piscine-Go</button>
+    <button id="graphButton" onclick="getGraph('piscine-js')">Piscine-JS</button>
+    <div id="graph-container"></div>
+</body>
+</html>

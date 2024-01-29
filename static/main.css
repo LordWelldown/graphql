@@ -1,0 +1,38 @@
+body {
+    background-color: #333; 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#result{
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    line-height: 2;
+}
+#ratio{
+    color: white;
+    font-size: 30px;
+}
+path {
+    fill: none;
+    stroke: white;
+}
+svg .dot {
+    fill: white;
+}
+button{
+    background-color: #007bff; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; 
+}
+h1{
+    color: white;
+}
